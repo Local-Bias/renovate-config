@@ -1,8 +1,6 @@
 {
   "name": "@local-bias/renovate-config",
   "version": "0.1.0",
-  "author": "Ribbit",
-  "license": "MIT",
   "renovate-config": {
     "dev": {
       "extends": [
